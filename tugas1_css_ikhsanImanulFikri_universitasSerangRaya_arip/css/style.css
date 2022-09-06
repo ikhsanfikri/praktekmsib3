@@ -1,0 +1,31 @@
+body {
+	background-color: #B1E1FF;
+	margin: 0px 100px 0px 150px;
+	color: #003865;
+	background-image:url( ../img/hh.png);
+	background-repeat:repeat-y;
+	background-position:left;
+	background-attachment:fixed;
+
+}
+
+p{
+	font-size: 17px;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+	text-align: justify;
+	margin: 20px 120px 20px 120px;
+
+
+}
+
+fieldset, legend{
+	border:#FFF38C groove 5px;	
+}
+
+ol { 
+	list-style-image: url("../img/jempol.gif"); 
+} 
+ul { 
+	list-style-image: url("../img/nyanyi.gif"); 
+} 
